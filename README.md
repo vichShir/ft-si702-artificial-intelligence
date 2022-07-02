@@ -1,0 +1,1 @@
+# ft-si702-artificial-intelligence
